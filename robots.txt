@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://info-game.github.io/viral/jackpot-mahjong-ways.html/sitemap.xml
